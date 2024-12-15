@@ -1,7 +1,8 @@
 # Vuln-Scanner
 ## Web Application Vulnerability Scanner
 
-![vuln-scanner-options](https://github.com/user-attachments/assets/ac59d35d-0365-4f33-999d-548eee1d6c8b)
+![vuln-scanner-options](https://github.com/user-attachments/assets/af6763ca-fbb0-43f9-a01c-e78eb3dfa0f8)
+
 
 
 ### About

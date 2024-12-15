@@ -37,9 +37,7 @@ inline code
 ``code``
 ''code''
 ```code block
-echo "hello worlds"
-
-
+echo "hello worlds"```
 
 horizontal rule
 ---

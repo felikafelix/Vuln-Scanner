@@ -1,7 +1,8 @@
 # Vuln-Scanner
 ## Web Application Vulnerability Scanner
 
-![Vuln-Scanner](https://github.com/user-attachments/assets/efe0b557-ec92-4de8-a959-3546516d950c)
+![vuln-scanner-options](https://github.com/user-attachments/assets/ac59d35d-0365-4f33-999d-548eee1d6c8b)
+
 
 ### About
 
@@ -26,7 +27,7 @@ list :
  1. first item
  2. second item
 
-links [google](google.com}
+links [google](https://google.com}
 
 blockquotes
 > this is a blockquote

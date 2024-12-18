@@ -28,7 +28,7 @@ list :
  1. first item
  2. second item
 
-links [google](https://google.com}
+links [google](https://google.com)
 
 blockquotes
 > this is a blockquote

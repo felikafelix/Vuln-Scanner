@@ -51,6 +51,27 @@ Here are a few examples of how to use vuln-scanner:
 ---
 This script is performing scan using some of the built-int programs from [Kali Linux](https://www.kali.org), and tested using [Kali Linux](https://www.kali.org)
 
+### Tools used in this script
+---
+- tools built in Kali Linux:
+  - wpscan
+  - nmap
+  - cewl
+  - wafw00f
+  - whatweb
+- other tools:
+  - [dirsearch](https://github.com/maurosoria/dirsearch.git)
+  - [subfinder](https://github.com/projectdiscovery/subfinder)
+  - [paramspider](https://github.com/devanshbatham/ParamSpider.git)
+  - [whatwaf](https://github.com/Ekultek/WhatWaf.git)
+ 
+### Tips
+---
+- for safety, ensure running this script using proxychains or anonsurf
+- anonsurf will route all your traffic inside the vm to TOR network
+- proxychains will do the same, but just specific program run using proxychains. the program will run inside sandbox
+- you can configure TOR's MaxCircuitDirtiness to 1, or any value you want
+
 
 
 ### heading 3

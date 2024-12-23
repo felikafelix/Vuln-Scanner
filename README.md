@@ -13,9 +13,13 @@ vuln-scanner allows you to scanning web vulnerability using many tools on kali l
 To install vuln-scaner, follow these steps:
 
 ```
-
+curl -LO https://github.com/felikafelix/Vuln-Scanner/releases/latest/download/vulnscan.tar.gz
+tar -xzvf vulnscan.tar.gz
+chmod +x vulnscan
+mv vulnscan /usr/local/bin
 ```
 ### Usage
+To use `vuln-scanner`, follow these steps
 ### Examples
 ### Notes
 

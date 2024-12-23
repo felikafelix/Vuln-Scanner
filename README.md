@@ -10,7 +10,11 @@
 vuln-scanner allows you to scanning web vulnerability using many tools on kali linux instantly. this program mainly is use and tested using kali linux. it makes pentesting more easier for vulnerability analisys of your client's web and save more time.
 
 ### Installation
+To install vuln-scaner, follow these steps:
 
+```
+
+```
 ### Usage
 ### Examples
 ### Notes

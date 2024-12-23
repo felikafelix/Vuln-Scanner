@@ -8,7 +8,7 @@
 ### About
 ---
 
-vuln-scanner allows you to scanning web vulnerability using many tools on kali linux instantly. this program mainly is use and tested using kali linux. it makes pentesting more easier for vulnerability analisys of your client's web and save more time.
+vuln-scanner allows you to scanning web vulnerability using many tools on kali linux instantly. this program mainly is use and tested using kali linux. it makes _pentesting_ more easier for vulnerability analisys of your client's web and save more time.
 
 ### Installation
 ---
@@ -49,7 +49,7 @@ Here are a few examples of how to use vuln-scanner:
   
 ### Notes
 ---
-This script is performing scan using some of the built-int programs from [Kali Linux](https://www.kali.org), and tested using [Kali Linux](https://www.kali.org)
+This script is performing scan using some of the *built-in* programs from [Kali Linux](https://www.kali.org), and tested using [Kali Linux](https://www.kali.org)
 
 ### Tools used in this script
 ---
@@ -67,38 +67,10 @@ This script is performing scan using some of the built-int programs from [Kali L
  
 ### Tips
 ---
-- for safety, ensure running this script using proxychains or anonsurf
-- anonsurf will route all your traffic inside the vm to TOR network
+- for safety, ensure **running this script using proxychains or anonsurf**
+- anonsurf will route all your traffic inside the vm to __TOR__ network
 - proxychains will do the same, but just specific program run using proxychains. the program will run inside sandbox
 - you can configure TOR's MaxCircuitDirtiness to 1, or any value you want
 
 
-
-### heading 3
-**bold text** __bold text__
-*italics* _italics_
-list :
-- item 1
-- item 2
-  - subitem 1
-  - subitem 2
- 
- ordered list :
- 1. first item
- 2. second item
-
-links [google](https://google.com)
-
-blockquotes
-> this is a blockquote
->
-inline code
-``code``
-''code''
-
-```
-echo "hello worlds"\
-```
-
-horizontal rule
----
+> **DO NOT USE FOR SCAN PEOPLE'S WEB WITHOUT THEIR PERMISSION**

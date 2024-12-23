@@ -19,8 +19,29 @@ chmod +x vulnscan
 mv vulnscan /usr/local/bin
 ```
 ### Usage
-To use `vuln-scanner`, follow these steps
+To use `vuln-scanner`, follow these steps:
+```
+vulnscan --domain example.com
+```
 ### Examples
+Here are a few examples of how to use vuln-scanner:
+- help message:
+  ```
+  vulnscan --help
+  ```
+- perform basic scan:
+  ```
+  vulnscan --domain example.com
+  ```
+- perform scan using wpscan api:
+  ```
+  vulnscan --domain example.com --wpscan-api API_KEY
+  ```
+- perform custom scan
+  ```
+  vulnscan --protocol http --wpscan-api API_KEY --domain example.com --port PORT
+  ```
+  
 ### Notes
 
 ### heading 3
